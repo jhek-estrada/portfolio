@@ -44,7 +44,7 @@ header {
    position: relative;
    height: 100%;
    width: 100%;
-   background: #161415 url(../images/yhotel.png) no-repeat top center !important;
+   background: #161415 url(../images/yhotel.PNG) no-repeat top center !important;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
