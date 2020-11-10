@@ -111,25 +111,25 @@ let resumeData = {
     {
       "name":"YHotels",
       "description":"WordPress Application",
-      "imgurl":"../images/yhotel.png",
+      "imgurl":"..portfolio/images/yhotel.png",
       "url":"https://yhotels.ph/"
     },
     {
       "name":"Atlantis Hotel",
       "description":"WordPress Application",
-      "imgurl":"../images/atlantis.png",
+      "imgurl":"..portfolio/images/atlantis.png",
       "url":"https://atlantishotel.com/"
     },
     {
       "name":"Star8 Shop",
       "description":"WordPress Application",
-      "imgurl":"../images/star8.png",
+      "imgurl":"..portfolio/images/star8.png",
       "url":"https://star8shop.com/"
     },
     {
       "name":"Silya Mesa",
       "description":"WordPress Application",
-      "imgurl":"../images/silya.png",
+      "imgurl":"..portfolio/images/silya.png",
       "url":"https://silya-mesa.com/"
     }
   ],
