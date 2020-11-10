@@ -42,6 +42,8 @@ header {
 
 #yhotels{
    position: relative;
+   min-height: 150px;
+   min-width: 200px;
    height: 100%;
    width: 100%;
    background: #161415 url(../images/yhotel.PNG) no-repeat top center !important;
@@ -53,6 +55,8 @@ header {
 
 #atlantis{
    position: relative;
+   min-height: 150px;
+   min-width: 200px;
    height: 100%;
    width: 100%;
    background: #161415 url(../images/atlantis.PNG) no-repeat top center !important;
@@ -64,6 +68,8 @@ header {
 
 #star8{
    position: relative;
+   min-height: 150px;
+   min-width: 200px;
    height: 100%;
    width: 100%;
    background: #161415 url(../images/star8.PNG) no-repeat top center !important;
@@ -75,6 +81,8 @@ header {
 
 #silya{
    position: relative;
+   min-height: 150px;
+   min-width: 200px;
    height: 100%;
    width: 100%;
    background: #161415 url(../images/silya.PNG) no-repeat top center !important;
